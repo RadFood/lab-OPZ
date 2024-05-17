@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+C:\BSUIR\2Cеместр\ОАИП\laba4\lab4\lab4\lab4.cpp(35,16): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+C:\BSUIR\2Cеместр\ОАИП\laba4\lab4\lab4\lab4.cpp(68,51): warning C4244: аргумент: преобразование "double" в "char", возможна потеря данных
+  lab4.vcxproj -> C:\BSUIR\2Cеместр\ОАИП\laba4\lab4\x64\Debug\lab4.exe
